@@ -9,7 +9,7 @@ To use this Movie Recommender System, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/movie-recommender.git
+    git clone https://github.com/patelpratyush/movie-recommender.git
     ```
 
 2. Navigate to the project directory:
